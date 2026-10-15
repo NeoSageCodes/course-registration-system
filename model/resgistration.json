@@ -1,0 +1,39 @@
+[
+    
+{
+"id":"REG001",
+"studentName":"Henry",
+"gender": "male",
+"enrolledCourse": "Frontend Development"
+
+},
+{
+"id":"REG002",
+"studentName": "Ada",
+"gender":"female",
+"enrolledCourse":"Backend Development"
+},
+{
+"id":"REG003",
+"studentName":"Grace",
+"gender":"female",
+"enrolledCourse":"Product Design"
+},
+
+
+{
+
+    "id":"REG004",
+    "studentName":"Daniel",
+    "gender":"male",
+    "enrolledCourse":"Frontend Development"
+},
+
+{
+"id":"REG005",
+"studentName":"Samuel",
+"gender":"male",
+"enrolledCourse":"Backend Development"
+
+    }
+]

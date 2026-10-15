@@ -1,0 +1,28 @@
+[
+{
+    "id":"CS1",
+    "course" :"Frontend Development",
+    "instructor": "Mr Eze"
+
+},
+{
+    "id":"CS2",
+    "course":"Backend Development",
+    "instructor": "Mr Ahmed"
+},
+{
+    "id":"CS3",
+    "course":"Product Design",
+    "instructor":"Miss Cynthia"
+    }
+]
+
+
+
+
+
+
+
+
+
+
